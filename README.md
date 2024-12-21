@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dominik-selmeci
-- 👀 I’m interested in Javascript, React and Game development in Javascript
-- 🌱 I’m currently learning Phaser 3, React
+- 👀 I’m interested in game development in Unity 6
+- 🌱 I’m currently attending game jams like Ludum Dare, Pirate Software or Game Off
 - 📫 You can contact me at [LinkedIn](https://www.linkedin.com/in/dominikselmeci/)
 
 <!---
